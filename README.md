@@ -10,9 +10,14 @@ Building upon recent advances in biological foundation models, Stanford's Biomni
 
 In order to facilitate usage and harden this system, we will be hosting hackathons in 2026 with exclusive access to the bioLLM ecosystem.  The first hackathon will be a small group of hackers that will test prompt the agentic bioLLM system to perform scientific discovery, usage documentation, and identify gaps in the system.
 
-## When? The first Hackathon will be a week-long asynchronous event from Jan 30 (Fri) - Feb 6 (Fri). There will be synchronous Zoom meetings 9am-10am each Friday.
-Hackathon Charge. Design an experiment and test the agent's ability to generate useful results from 2 core pipelines.. The first pipeline identifies genes and their protein products underlying a specific phenotype.  The second pipeline identifies small molecules that interact with those proteins.  The methods will be documented and results of the project will be quantified for accuracy.
-Collaboration. Discord server: https://discord.gg/V4p7Sd8t  
+## When? 
+The first Hackathon will be a week-long asynchronous event from Jan 30 (Fri) - Feb 6 (Fri). There will be synchronous Zoom meetings 9am-10am each Friday.
+
+## Hackathon Charge. 
+Design an experiment and test the agent's ability to generate useful results from 2 core pipelines.. The first pipeline identifies genes and their protein products underlying a specific phenotype.  The second pipeline identifies small molecules that interact with those proteins.  The methods will be documented and results of the project will be quantified for accuracy.
+
+## Collaboration. 
+Discord server: https://discord.gg/V4p7Sd8t  
 
 ## Rewards. 
 (1) Early access to Palmetto2 LLM infrastructure. 
