@@ -1,5 +1,7 @@
-# CATALYST HACKATHON (2026-01-30). Testing the Palmetto2 bioLLM infrastructure prototype.
-PreHack.  Provide hackers access to bioLLM ecosystem and usage documentation..
+# CATALYST HACKATHON (2026-01-30)::: Testing the Palmetto2 bioLLM infrastructure prototype.
+
+## PreHack.  
+Provide hackers access to bioLLM ecosystem and usage documentation..
 
 ## Background. 
 Members of the CCIT-RCDE division and faculty from Clemson Genetics & Biochemistry Department, Chemical and Biomolecular Engineering Department, Electrical and Computer Engineering department and the School of Computing have joined forces to create comprehensive biological Large Language Model (bioLLM) ecosystem at Clemson University to address the growing demand for AI-powered life sciences research tools.
