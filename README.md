@@ -4,7 +4,7 @@
 Provide hackers access to bioLLM ecosystem and usage documentation..
 
 ## Background 
-Members of the CCIT-RCDE division and faculty from Clemson Genetics & Biochemistry Department, Chemical and Biomolecular Engineering Department, Electrical and Computer Engineering department and the School of Computing have joined forces to create comprehensive biological Large Language Model (bioLLM) ecosystem at Clemson University to address the growing demand for AI-powered life sciences research tools.
+Members of the CCIT-RCDE division and faculty from Clemson Genetics & Biochemistry Department, Chemical and Biomolecular Engineering Department, Electrical and Computer Engineering department and the School of Computing have joined forces to create modular poly-domain research generative AI ecosystem on Palmetto2 called Clemson Advanced Computational Analytics and Learning for Integrated Science Translation(CATALYST). Phase one of CATALYST development is applying the system to Life Science research.
 
 Building upon recent advances in biological foundation models, Stanford's Biomni framework, and openAI LLM middleware (codex, MCP server), the team has created an extensible, locally-deployed AI platform prototype operating on Clemson's Palmetto2 HPC cluster. The ecosystem addresses current limitations in fragmented bioinformatics tools, scalability, security, and sustainability. Through an innovative agentic framework, Clemson researchers will gain access to specialized bioLLMs for genomics, transcriptomics, proteomics, and systems biology applications. 
 
