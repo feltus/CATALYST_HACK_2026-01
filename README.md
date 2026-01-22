@@ -1,7 +1,23 @@
 # CATALYST HACKATHON (2026-01-30)::: Testing the Palmetto2 bioLLM infrastructure prototype.
 
+## Invitees 
+RCD: Carl E Ehrett <cehrett@clemson.edu>
+RCD: Doug Dawson <dndawso@clemson.edu>
+RCD: Zachary Ian Gerstner <zigerst@clemson.edu>
+BIO: Xusheng Ai <xai@clemson.edu> 
+BIO: Tzu-Yu Chu <tzuyuc@clemson.edu>
+BIO: Gabriel Serrano <gserran@clemson.edu>
+BIO: Sarah Moorshead <smoorsh@g.clemson.edu>
+BIO: Maura Korte <mjkorte@clemson.edu>
+BIO: Macy Rietz <mrietz@g.clemson.edu> 
+BIO: Varun Sethi <vsethi@g.clemson.edu> 
+BIO: Alex Feltus <ffeltus@clemson.edu> 
+
 ## Pre-Hack  
-Provide hackers access to bioLLM ecosystem and usage documentation..
+Onboarding:
+1.	Add users to OpenAi and bioLLM (Carl)
+2.	Obtain OpenAI account with your clemson.edu email (not g.clemson.edu) (user)
+3.  Install codex with https://git.rcd.clemson.edu/biollms/biocodex
 
 ## Background 
 Members of the CCIT-RCDE division and faculty from Clemson Genetics & Biochemistry Department, Chemical and Biomolecular Engineering Department, Electrical and Computer Engineering department and the School of Computing have joined forces to create modular poly-domain research generative AI ecosystem on Palmetto2 called Clemson Advanced Computational Analytics and Learning for Integrated Science Translation(CATALYST). Phase one of CATALYST development is applying the system to Life Science research.
@@ -14,6 +30,7 @@ In order to facilitate usage and harden this system, we will be hosting hackatho
 The first Hackathon will be a week-long asynchronous event from Jan 30 (Fri) - Feb 6 (Fri). 
 
 There will be synchronous Zoom meetings 9am-10am each Friday: https://clemson.zoom.us/j/9452064261
+Feltus will be in Zoom 9am to noon each day.
 
 ## Hackathon Charge 
 Design an experiment and test the agent's ability to generate useful results from 2 core pipelines.. The first pipeline identifies genes and their protein products underlying a specific phenotype.  The second pipeline identifies small molecules that interact with those proteins.  The methods will be documented and results of the project will be quantified for accuracy.
@@ -28,3 +45,4 @@ Discord server: https://discord.gg/V4p7Sd8t
 ## Next Hack  
 March 6: (Hack2) Biology tool development for Palmetto2 biology LLM infrastructure 
 April 3: (Hack3) Materials tool development for Palmetto2 materials LLM infrastructure  
+
