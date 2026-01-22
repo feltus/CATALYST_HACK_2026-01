@@ -13,11 +13,6 @@ BIO: Macy Rietz <mrietz@g.clemson.edu>
 BIO: Varun Sethi <vsethi@g.clemson.edu>  
 BIO: Alex Feltus <ffeltus@clemson.edu>  
 
-## Pre-Hack  
-1.	Add users to OpenAi and bioLLM (Carl)  
-2.	Obtain OpenAI account with your clemson.edu email (not g.clemson.edu) (user)  
-3.  Install codex with https://git.rcd.clemson.edu/biollms/biocodex  
-
 ## Background 
 Members of the CCIT-RCDE division and faculty from Clemson Genetics & Biochemistry Department, Chemical and Biomolecular Engineering Department, Electrical and Computer Engineering department and the School of Computing have joined forces to create modular poly-domain research generative AI ecosystem on Palmetto2 called Clemson Advanced Computational Analytics and Learning for Integrated Science Translation(CATALYST) Phase one of CATALYST development is applying the system to Life Science research facet (bioLLM).  
 
@@ -31,7 +26,12 @@ There will be synchronous Zoom meetings 9am-10am each Friday: https://clemson.zo
 Feltus will be in Zoom 9am to noon each day.   
 
 ## Collaboration. 
-Discord server: [https://discord.gg/V4p7Sd8t ](https://discord.gg/4QU39zjs)  
+Discord server: [https://discord.gg/4QU39zjs]
+
+## Pre-Hack  
+1.	Obtain OpenAI account with your clemson.edu email (not g.clemson.edu)
+2.  Install codex with https://git.rcd.clemson.edu/biollms/biocodex
+3.  Run some test prompts.
 
 ## Hackathon Charge 
 Design an experimental workflow to test the OpenAI LLM and bioLLM agent ability to generate useful results from existing tools. Gaps will be documented and submitted as issues at https://git.rcd.clemson.edu/biollms/biocodex. 
