@@ -1,26 +1,16 @@
 # CATALYST HACKATHON (2026-01-30)::: Testing the Palmetto2 bioLLM infrastructure prototype.
 
 ## Invitees 
-RCD: Carl E Ehrett <cehrett@clemson.edu>
-
-RCD: Doug Dawson <dndawso@clemson.edu>
-
-RCD: Zachary Ian Gerstner <zigerst@clemson.edu>
-
-BIO: Xusheng Ai <xai@clemson.edu> 
-
-BIO: Tzu-Yu Chu <tzuyuc@clemson.edu>
-
-BIO: Gabriel Serrano <gserran@clemson.edu>
-
-BIO: Sarah Moorshead <smoorsh@g.clemson.edu>
-
-BIO: Maura Korte <mjkorte@clemson.edu>
-
+RCD: Carl E Ehrett <cehrett@clemson.edu> 
+RCD: Doug Dawson <dndawso@clemson.edu> 
+RCD: Zachary Ian Gerstner <zigerst@clemson.edu> 
+BIO: Xusheng Ai <xai@clemson.edu>  
+BIO: Tzu-Yu Chu <tzuyuc@clemson.edu> 
+BIO: Gabriel Serrano <gserran@clemson.edu> 
+BIO: Sarah Moorshead <smoorsh@g.clemson.edu> 
+BIO: Maura Korte <mjkorte@clemson.edu> 
 BIO: Macy Rietz <mrietz@g.clemson.edu> 
-
 BIO: Varun Sethi <vsethi@g.clemson.edu> 
-
 BIO: Alex Feltus <ffeltus@clemson.edu> 
 
 ## Pre-Hack  
@@ -37,21 +27,21 @@ In order to facilitate usage and harden this system, we will be hosting hackatho
 
 ## When & Where
 The first Hackathon will be a week-long asynchronous event from Jan 30 (Fri) - Feb 6 (Fri). 
-There will be synchronous Zoom meetings 9am-10am each Friday: https://clemson.zoom.us/j/9452064261
-Feltus will be in Zoom 9am to noon each day.
+There will be synchronous Zoom meetings 9am-10am each Friday: https://clemson.zoom.us/j/9452064261 
+Feltus will be in Zoom 9am to noon each day. 
 
 ## Collaboration. 
-Discord server: https://discord.gg/V4p7Sd8t  
+Discord server: [https://discord.gg/V4p7Sd8t ](https://discord.gg/4QU39zjs)  
 
 ## Hackathon Charge 
 Design an experimental workflow to test the OpenAI LLM and bioLLM agent ability to generate useful results from existing tools. Gaps will be documented and submitted as issues at https://git.rcd.clemson.edu/biollms/biocodex. 
 
 ## Tools 
-Zach's Pipeline (TBD)
-Genomics.py --- biomni
-DNAbert
-(Docking) --- biomni
-Build your own tool!
+Zach's Pipeline (TBD) 
+Genomics.py --- biomni 
+DNAbert 
+(Docking) --- biomni 
+Build your own tool! 
 
 ## Issue Framework:
 Description of the task and problem.
