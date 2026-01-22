@@ -46,14 +46,14 @@ Discord server: https://discord.gg/V4p7Sd8t
 ## Hackathon Charge 
 Design an experimental workflow to test the OpenAI LLM and bioLLM agent ability to generate useful results from existing tools. Gaps will be documented and submitted as issues at https://git.rcd.clemson.edu/biollms/biocodex. 
 
-# Tools 
+## Tools 
 Zach's Pipeline (TBD)
 Genomics.py --- biomni
 DNAbert
 (Docking) --- biomni
 Build your own tool!
 
-# Issue Framework:
+## Issue Framework:
 Description of the task and problem.
 LLM model
 Your prompt
@@ -65,6 +65,7 @@ Error logs
 (2) Possible co-authorship on a PEARC or other manuscript
 
 ## Next Hack  
-March 6: (Hack2) Biology tool development for Palmetto2 biology LLM infrastructure 
+March 6: (Hack2) Biology tool development for Palmetto2 biology LLM infrastructure (Expand to Birtwistle, Huang, and Smith labs).
+
 April 3: (Hack3) Materials tool development for Palmetto2 materials LLM infrastructure  
 
