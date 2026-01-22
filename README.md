@@ -26,7 +26,8 @@ There will be synchronous Zoom meetings 9am-10am each Friday: https://clemson.zo
 Feltus will be in Zoom 9am to noon each day.   
 
 ## Collaboration. 
-Discord server: [https://discord.gg/4QU39zjs]
+Discord server invite: https://discord.gg/4QU39zjs
+Discord server URL: https://discord.com/channels/1461097829706760202/1461097830239305923
 
 ## Pre-Hack  
 1.	Obtain OpenAI account with your clemson.edu email (not g.clemson.edu)
