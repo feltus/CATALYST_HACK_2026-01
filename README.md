@@ -14,9 +14,11 @@ BIO: Varun Sethi <vsethi@g.clemson.edu>
 BIO: Alex Feltus <ffeltus@clemson.edu>  
 
 ## Background 
-Members of the CCIT-RCDE division and faculty from Clemson Genetics & Biochemistry Department, Chemical and Biomolecular Engineering Department, Electrical and Computer Engineering department and the School of Computing have joined forces to create modular poly-domain research generative AI ecosystem on Palmetto2 called Clemson Advanced Computational Analytics and Learning for Integrated Science Translation(CATALYST--possible system name) Phase one of CATALYST development is applying the system to Life Science research facet (bioLLM).  
+Members of the CCIT-RCDE division and faculty from Clemson Genetics & Biochemistry Department, Chemical and Biomolecular Engineering Department, Electrical and Computer Engineering department and the School of Computing have joined forces to create modular poly-domain research generative AI ecosystem (Hub-Spoke model) on Palmetto2 called Clemson Advanced Computational Analytics and Learning for Integrated Science Translation (CATALYST--possible system name).
 
-Building upon recent advances in biological foundation models, Stanford's Biomni framework, and openAI LLM middleware (codex, MCP server), the team has created an extensible, locally-deployed AI platform prototype operating on Clemson's Palmetto2 HPC cluster. The ecosystem addresses current limitations in fragmented bioinformatics tools, scalability, security, and sustainability. Through an innovative agentic framework, Clemson researchers will gain access to specialized bioLLMs for genomics, transcriptomics, proteomics, and systems biology applications.   
+Phase one of CATALYST development is applying the OpenAI system on Plametto2 (codex, MCP server, vLLM) to build a Life Science research facet called bioLLM (placeholder name).
+
+bioLLM builds upon recent advances in biological foundation models, Stanford's Biomni framework, and openAI LLM middleware (codex, MCP server), the team has created an extensible, locally-deployed AI platform prototype operating on Clemson's Palmetto2 HPC cluster. The ecosystem addresses current limitations in fragmented bioinformatics tools, scalability, security, and sustainability. Through an innovative agentic framework, Clemson researchers will gain access to specialized bioLLMs for genomics, transcriptomics, proteomics, and systems biology applications.   
 
 In order to facilitate usage and harden this system, we will be hosting hackathons in 2026 with exclusive access to alpha test bioLLM ecosystem.  The first hackathon will be a small group of hackers that will test prompt the agentic bioLLM system to perform scientific discovery, usage documentation, and identify gaps in the system.  
 
@@ -37,8 +39,8 @@ Discord server URL: https://discord.com/channels/1461097829706760202/14610978302
 ## Hackathon Charge 
 You have two choices:
 
-1. Design and test an experimental workflow to test a biological hypothesis using the bioLLM system.
-2. Develop a tool for bioLLM to access.
+1. Design and test an experimental workflow to test a biological hypothesis using the bioLLM system. Prepare a report on what you found and how you found it (document your prompts!).
+2. Develop a new tool for bioLLM to access.
 
 In concert, you will test the OpenAI LLM and bioLLM agent ability to generate useful biological results from existing tools. Gaps will be documented and submitted as issues at https://git.rcd.clemson.edu/biollms/biocodex. 
 
@@ -55,7 +57,7 @@ DNAbert2  foundation model
 Zach's Pipeline (TBD)  
 #(Docking) --- biomni  
 #Genomics.py --- biomni
-Build your own tool!  
+Build your own tool!  The tool standard is defined here: TBD.
 
 ## Rewards 
 (1) Early access to Palmetto2 LLM infrastructure. 
