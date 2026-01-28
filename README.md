@@ -52,10 +52,10 @@ Paste errors or description of incorrect results.
 (optional) Performance metrics 
 
 ## Example Computatioanl Biology Workflows
-https://github.com/feltus/InSilicoDiseaseHypothesis
-https://github.com/feltus/lab-drug-targeting
-https://github.com/feltus/identifying_differentially_expressed_genes
-https://github.com/feltus/biohackathon-finding-dna-eqtls-underlying-a-disease
+https://github.com/feltus/InSilicoDiseaseHypothesis  
+https://github.com/feltus/lab-drug-targeting  
+https://github.com/feltus/identifying_differentially_expressed_genes  
+https://github.com/feltus/biohackathon-finding-dna-eqtls-underlying-a-disease  
 
 ## Available Tools 
 Genomics.py --- biomni
