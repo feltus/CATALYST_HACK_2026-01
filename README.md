@@ -94,13 +94,10 @@ Build your own tool!  The tool standard is defined here: TBD.
 * Test foundation model tools (DNABERT, etc.)
 
 ### Workshops and Funding
-* Come up with name for hub and spoke system instaed of codex or bimni  
-* 4-lab Bio workshop    
-* Materials workshop   
+* Come up with name for hub and spoke system instaed of codex or bimni (e.g. Clemson Advanced Computational Analytics and Learning for Integrated Science Translation (CATALYST)=system, Hub=codex, Spokes: BioBot, MatBot, ChemBot ???)   
+* March 6: (Hack2) Biology tool development for Palmetto2 biology LLM infrastructure (Expand to Birtwistle, Huang, and Smith labs)  
+* April 3: (Hack3) Materials tool development for Palmetto2 materials LLM infrastructure     
 * Fall Hacakthon (OpenAI sponsered?; HPC, Laptop, custom GPTs)  
 * Huge RFP  
 
-## Next Workshops 
-* March 6: (Hack2) Biology tool development for Palmetto2 biology LLM infrastructure (Expand to Birtwistle, Huang, and Smith labs)  
-* April 3: (Hack3) Materials tool development for Palmetto2 materials LLM infrastructure  
 
