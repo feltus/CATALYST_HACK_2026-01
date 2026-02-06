@@ -74,7 +74,7 @@ Build your own tool!  The tool standard is defined here: TBD.
 ### Feltus Lab
 * Build Gabe's BLAST Tool/Compare with extant Biomni tool (eg.g alignments, phylogenetics)
 * Fix Sarah's API problem for GWAS  
-* Compare Tzu-Yu scRNAseq annotations with a bimni tool (or drop?)  
+* Compare Tzu-Yu scRNAseq annotations with a Biomni tool (or drop?)  
 * Check Varun's Fisher Exact Test results 
 * See what Maura achieved  
 
