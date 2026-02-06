@@ -85,19 +85,20 @@ Build your own tool!  The tool standard is defined here: TBD.
 * General workflow documentation for a Python/bash iterate user:  
     * ExperimentalDesign>>>InputDataCollection>>>Algorithm(Code)>>>Results
     * Validation( common sense, +/- control . literature)  
-    * Pitfalls(codex uses wrong envirnoment, etc.)  
+    * Pitfalls(codex uses wrong environment, etc.)  
     * Log Parsing (MethodsforReproducibility, AI Suggestions for better experiments; https://tools.s-anand.net/codexlog/)  
-    * Workfing Directory directory sstructure (input_data, code, results, methods, logs) 
+    * Working Directory structure (input_data, code, results, methods, logs) 
 
 ### Back end improvements
 * RAG functionality
 * Test foundation model tools (DNABERT, etc.)
 
 ### Workshops and Funding
-* Come up with name for hub and spoke system instaed of codex or bimni (e.g. Clemson Advanced Computational Analytics and Learning for Integrated Science Translation (CATALYST)=system, Hub=codex, Spokes: BioBot, MatBot, ChemBot ???)   
+* Come up with name for hub and spoke system instead of codex or biomni (e.g. Clemson Advanced Computational Analytics and Learning for Integrated Science Translation (CATALYST)=system, Hub=codex, Spokes: BioBot, MatBot, ChemBot ???)   
 * March 6: (Hack2) Biology tool development for Palmetto2 biology LLM infrastructure (Expand to Birtwistle, Huang, and Smith labs)  
 * April 3: (Hack3) Materials tool development for Palmetto2 materials LLM infrastructure     
-* Fall Hacakthon (OpenAI sponsered?; HPC, Laptop, custom GPTs)  
-* Huge RFP  
+* Fall Hackathon (OpenAI sponsored?; HPC, Laptop, custom GPTs)  
+* Find Huge RFP  
+
 
 
