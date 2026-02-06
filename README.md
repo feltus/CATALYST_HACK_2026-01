@@ -83,14 +83,15 @@ Build your own tool!  The tool standard is defined here: TBD.
 * Genomic Data access bestpractices,workflow,documentation
 * Bio API bestpractices,workflow,documentation
 * General workflow documentation for a Python/bash iterate user:  
-*    ExperimentalDesign>>>InputDataCollection>>>Algorithm(Code)>>>Results
-*    Validation( common sense, +/- control . literature)  
-*    Pitfalls(codex uses wrong envirnoment, etc.)  
-*    Log Parsing (MethodsforReproducibility, AI Suggestions for better experiments; https://tools.s-anand.net/codexlog/) 
-*    Workfing Directory directory sstructure (input_data, code, results, methods, logs) 
+**    ExperimentalDesign>>>InputDataCollection>>>Algorithm(Code)>>>Results
+**    Validation( common sense, +/- control . literature)  
+**    Pitfalls(codex uses wrong envirnoment, etc.)  
+**    Log Parsing (MethodsforReproducibility, AI Suggestions for better experiments; https://tools.s-anand.net/codexlog/) 
+**    Workfing Directory directory sstructure (input_data, code, results, methods, logs) 
 
 ### Back end improvements
-RAG functionality  
+* RAG functionality
+* Test foundation model tools (DNABERT, etc.)
 
 ### Workshops and Funding
 * Come up with name for hub and spoke system instaed of codex or bimni  
