@@ -72,27 +72,33 @@ Build your own tool!  The tool standard is defined here: TBD.
 ## To Do
 
 ### Feltus Lab
-Build Gabe's BLAST Tool/Compare with extant Biomni tool
-Fix Sarah's API problem for GWAS
-Tzu-Yu scRANseq annotaions
+Build Gabe's BLAST Tool/Compare with extant Biomni tool (eg.g alignments, phylogenetics)
+Fix Sarah's API problem for GWAS  
+Compare Tzu-Yu scRNAseq annotations with a bimni tool (or drop?)  
+Check Varun's Fisher Exact Test results 
+See what Maura achieved  
 
 ### End User Documentation
 * Tool format and installation documentation
 * Genomic Data access bestpractices,workflow,documentation
 * Bio API bestpractices,workflow,documentation
 * General workflow documentation for a Python/bash iterate user:  
-** ExperimentalDesign>>>InputDataCollection>>>Algorithm(Code)>>>Results  
-*** Validation( common sense, +/- control . literature)  
-*** Pitfalls(codex uses wrong envirnoment, etc.)  
-*** Log Parsing (MethodsforReproducibility, AI Suggestions for better experiments; https://tools.s-anand.net/codexlog/) 
-*v Workfing Directory directory sstructure (input_data, code, results, methods, logs) 
+  ExperimentalDesign>>>InputDataCollection>>>Algorithm(Code)>>>Results
+  Validation( common sense, +/- control . literature)  
+  Pitfalls(codex uses wrong envirnoment, etc.)  
+  Log Parsing (MethodsforReproducibility, AI Suggestions for better experiments; https://tools.s-anand.net/codexlog/) 
+  Workfing Directory directory sstructure (input_data, code, results, methods, logs) 
+
+### Back end improvements
+RAG functionality  
+
 
 ### Workshops and Funding
-Come up with name for hub and spoke system instaed of codex or bimni
-4-lab Bio workshop  
-Materials workshop  
-Fall Hacakthon (OpenAI sponsered?; HPC, Laptop, )
-Huge RFP
+Come up with name for hub and spoke system instaed of codex or bimni  
+4-lab Bio workshop    
+Materials workshop   
+Fall Hacakthon (OpenAI sponsered?; HPC, Laptop, custom GPTs)  
+Huge RFP  
 
 ## Next Workshops 
 March 6: (Hack2) Biology tool development for Palmetto2 biology LLM infrastructure (Expand to Birtwistle, Huang, and Smith labs).
