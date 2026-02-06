@@ -69,7 +69,32 @@ Build your own tool!  The tool standard is defined here: TBD.
 (1) Early access to Palmetto2 LLM infrastructure. 
 (2) Possible co-authorship on a PEARC or other manuscript
 
-## Next Hack  
+## To Do
+
+### Feltus Lab
+Build Gabe's BLAST Tool/Compare with extant Biomni tool
+Fix Sarah's API problem for GWAS
+Tzu-Yu scRANseq annotaions
+
+### End User Documentation
+* Tool format and installation documentation
+* Genomic Data access bestpractices,workflow,documentation
+* Bio API bestpractices,workflow,documentation
+* General workflow documentation for a Python/bash iterate user:  
+** ExperimentalDesign>>>InputDataCollection>>>Algorithm(Code)>>>Results  
+*** Validation( common sense, +/- control . literature)  
+*** Pitfalls(codex uses wrong envirnoment, etc.)  
+*** Log Parsing (MethodsforReproducibility, AI Suggestions for better experiments; https://tools.s-anand.net/codexlog/) 
+*v Workfing Directory directory sstructure (input_data, code, results, methods, logs) 
+
+### Workshops and Funding
+Come up with name for hub and spoke system instaed of codex or bimni
+4-lab Bio workshop  
+Materials workshop  
+Fall Hacakthon (OpenAI sponsered?; HPC, Laptop, )
+Huge RFP
+
+## Next Workshops 
 March 6: (Hack2) Biology tool development for Palmetto2 biology LLM infrastructure (Expand to Birtwistle, Huang, and Smith labs).
 April 3: (Hack3) Materials tool development for Palmetto2 materials LLM infrastructure  
 
