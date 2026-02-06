@@ -69,7 +69,7 @@ Build your own tool!  The tool standard is defined here: TBD.
 (1) Early access to Palmetto2 LLM infrastructure. 
 (2) Possible co-authorship on a PEARC or other manuscript
 
-## To Do
+## Post-Hack Next Steps
 
 ### Feltus Lab
 * Build Gabe's BLAST Tool/Compare with extant Biomni tool (eg.g alignments, phylogenetics)
